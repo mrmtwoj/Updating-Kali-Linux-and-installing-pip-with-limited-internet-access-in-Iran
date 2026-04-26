@@ -55,3 +55,8 @@ timeout = 60
 
 اگر مراحل بالا به‌درستی انجام شده باشد، اکنون سیستم شما می‌تواند پکیج‌های **apt** و **pip** را از mirror های سریع‌تر دریافت کند و فرآیند نصب و به‌روزرسانی در اینترنت محدود با مشکل کمتری انجام خواهد شد.
 تهیه شده در 26/4/2026 - توسط تیم Acyber.ir
+
+## Test 
+```
+sudo apt install -y python3-requests python3-bs4 python3-lxml python3-selenium python3-scapy python3-flask python3-django python3-cryptography python3-paramiko python3-numpy python3-pandas python3-matplotlib python3-tqdm python3-colorama python3-rich python3-aiohttp python3-pil python3-yaml python3-urllib3 python3-dateutil python3-psutil python3-click python3-jinja2 python3-bcrypt python3-openssl python3-redis python3-websocket python3-httpx
+```
