@@ -19,9 +19,8 @@
 محتوای زیر را داخل فایل قرار دهید:
 
 ```
-deb http://mirror.arvancloud.ir/debian testing main contrib non-free non-free-firmware  
-deb http://mirror.arvancloud.ir/debian-security testing-security main contrib non-free non-free-firmware  
-deb http://mirror.arvancloud.ir/debian testing-updates main contrib non-free non-free-firmware
+deb https://mirror.shatel.ir/kali kali-rolling main contrib non-free non-free-firmware
+deb-src https://mirror.shatel.ir/kali kali-rolling main contrib non-free non-free-firmware
 ```
 
 سپس لیست پکیج‌ها را به‌روزرسانی کنید:
