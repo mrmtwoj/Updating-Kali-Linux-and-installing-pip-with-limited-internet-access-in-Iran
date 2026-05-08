@@ -21,6 +21,7 @@
 ```
 deb https://mirror.shatel.ir/kali kali-rolling main contrib non-free non-free-firmware
 deb-src https://mirror.shatel.ir/kali kali-rolling main contrib non-free non-free-firmware
+deb https://mirror-linux.runflare.com/kali kali-rolling main non-free contrib
 ```
 
 سپس لیست پکیج‌ها را به‌روزرسانی کنید:
